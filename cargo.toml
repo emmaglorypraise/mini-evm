@@ -1,0 +1,6 @@
+[workspace]
+
+members = ["bins/evm", "crates/primitives"]
+
+[workspace.dependencies]
+alloy = "1.0.41"
